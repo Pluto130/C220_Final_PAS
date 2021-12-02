@@ -1,6 +1,8 @@
 import sys
 
+world = {
 
+}
 
 def find_current_location(location_label):
 	if "passages" in world:
@@ -8,8 +10,6 @@ def find_current_location(location_label):
 			if location_label == passage["name"]:
 				return passage
 	return {}
-
-#
 
 def render(current_location, moves):
 	if "name" in current_location and "cleanText" in current_location:
