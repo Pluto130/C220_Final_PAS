@@ -1,27 +1,23 @@
 # Pain-and-Suffering
-MSCH-C220 Game Jam, November 2021
+MSCH-C220 Game Jam, November - December 2021
 
 ## Theme
-How you thought about or interpreted the theme
+Since the phrase "pick your poison" evokes such a defeatist, melancholy feeling, our main motivation for our game was to mimic that sentiment. In order to better communicate that emotion in a thorough manner, we opted to produce a narrative-based game akin to our first assigned project. 
 
 ## Game Play
-Objective
-Game-play instructions
+The main objective of the game is to complete the given riddles while under great pressure, culminating in the ultimate choice: do you choose selfishness and sacrifice another's life for your lonesome continued existence, or do you make a major personal sacrifice and choose selflessness, sparing the life of your insidious ally who would be missed by his whole community?
 
 ## Impediments
-Struggles or surprises you encountered during the development of the game
+The main impediments encountered along the way were related to time management and the reality of time constraints. We had a good amount of ideas about potential game features (ASCII art, a countdown timer function, puzzles, dialogue boxes, NPCs, etc), but we had to really reel ourselves in to make sure we had a solid foundation before venturing into "what-if" territory. Realizing that sooner would've aided in our project's completion timeline for sure.
 
 ## Implementation
-Features
-Assets, or resources used
+Built using Visual Studio Code, Twine 2.3.14, and Python 3.9.6
 
 ## References
+[Ref for riddles here]
 
 ## Future Development
 None
 
 # Created by: PAS
-Samantha Noel
-Logan Hare
-Malakai Smiley
-Danielle Dixon
+Samantha Noel- project manager, assistance in coding and plot creation, Logan Hare- soundtrack/music creator, Malakai Smiley- soundtrack/music creator, Danielle Dixon- Twine story author and coder
