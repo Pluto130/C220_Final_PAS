@@ -1,12 +1,7 @@
-import sys
-from playsound import playsound
-  
-playsound('time_2.mp3')
 
 
 
 world = {
-	{
   "uuid": "121BE361-EE75-4040-AA03-30596DF6DE44",
   "name": "Pain and Suffering",
   "creator": "Twine",
@@ -323,8 +318,6 @@ world = {
   ]
 }
 
-
-}
 
 def find_current_location(location_label):
 	if "passages" in world:
