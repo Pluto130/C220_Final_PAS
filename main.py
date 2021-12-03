@@ -319,6 +319,11 @@ world = {
 }
 
 
+from playsound import playsound
+
+playsound('time_1.mp3', block=False)
+  
+
 def find_current_location(location_label):
 	if "passages" in world:
 		for passage in world["passages"]:
@@ -354,6 +359,7 @@ location_label = "Awake"
 current_location = {}
 response = ""
 moves = 0
+
 
 while True:
 	if response == "QUIT":
