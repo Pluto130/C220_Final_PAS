@@ -334,8 +334,11 @@ def find_current_location(location_label):
 def render(current_location, moves):
 	if "name" in current_location and "cleanText" in current_location:
 		print("Total moves: " + str(moves))
-		print("You are located at the " + str(current_location["name"]))
+		print(current_location["name"] + "\n")
+		#print("You are located at the " + str(current_location["name"]))
 		print(current_location["cleanText"] + "\n")
+		for link in current_location["links"]:
+			print("Option(s): " + link["linkText"] + "\n")
 
 
 def get_input():
@@ -364,7 +367,7 @@ moves = 0
 while True:
 	if response == "QUIT":
 		break
-	moves =+ 1
+	moves += 1
 	location_label = update(current_location, location_label, response)
 	current_location = find_current_location(location_label)
 	render(current_location, moves)
