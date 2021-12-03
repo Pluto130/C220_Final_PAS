@@ -1,13 +1,9 @@
 import sys
 from playsound import playsound
-#Source: https://www.geeksforgeeks.org/play-sound-in-python/
-#WAV:
-	#playsound('/path/note.wav')
-	#print('playing sound using playsound')
-#mp3:
-	#playsound('/path/note.mp3')
-	#print('playinbg sound using playsound')
-#Setting the arguement block to False to make the function run asynchonously
+  
+playsound('time_1.mp3')
+
+
 
 world = {
 
