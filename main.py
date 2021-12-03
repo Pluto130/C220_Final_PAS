@@ -299,7 +299,7 @@ world = {
       "name": ";)",
       "tags": "",
       "id": "18",
-      "text": "---\n\nI've been on this stand for hours...days? I don't fucking know anymore. I need water. \n\nWhy's it shaking... is it... is it stopping?\n\nFinally. \n\nWhat did I just open my eyes to? \n\nIs that blood on the walls? \n\n'Hey 'Hughie' ;). How's it feel to have your official second kill! This time, and probably the last time as well (hell, I dunno!), it was alllll your fault. Guess you could say you're 49 down!\" \n\n.....\n\nMe? \n\nHeh. I guess I am pretty smooth.\n\n[[Play again->Awake]]\n[[Quit->Thank you!]]",
+      "text": "---\n\nI've been on this stand for hours...days? I don't fucking know anymore. I need water. \n\nWhy's it shaking... is it... is it stopping?\n\nFinally. \n\nWhat did I just open my eyes to? \n\nIs that blood on the walls? \n\n'Hey 'Hughie' ;). How's it feel to have your official second kill! This time, and probably the last time as well (hell, I dunno!), it was alllll your fault. Guess you could say you're 49 down!Be all your sins remember'd.\" \n\n.....\n\nMe? \n\nHeh. I guess I am pretty smooth.\n\n[[Play again->Awake]]\n[[Quit->Thank you!]]",
       "links": [
         {
           "linkText": "Play again",
