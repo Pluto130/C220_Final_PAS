@@ -1,7 +1,7 @@
 import sys
 from playsound import playsound
   
-playsound('time_1.mp3')
+playsound('time_2.mp3')
 
 
 
