@@ -14,6 +14,7 @@ The main impediments encountered along the way were related to time management a
 Built using Visual Studio Code, Twine 2.3.14, and Python 3.9.6
 
 ## References
+playsound python function: https://www.geeksforgeeks.org/play-sound-in-python/
 [Ref for riddles here]
 
 ## Future Development
